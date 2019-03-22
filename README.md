@@ -15,3 +15,7 @@ Browser Support: Google Chrome, Mozilla Firefox,Yandex, Internet Explorer
 Exam project presentation:
 
 **[portfolio PSD] (https://github.com/Shakhovskaya/portfolio/blob/master/resources/exam_project_presentation.pptx)**
+
+View web page:
+
+**(https://shakhovskaya.github.io/portfolio/)**
